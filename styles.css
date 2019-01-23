@@ -1,0 +1,14 @@
+div {
+    margin-left: 25px;
+    margin-top: 25px;
+    width: 50%;
+}
+h1 {
+    width: 50%;
+    margin: auto;
+    position: relative;
+    top: 20px;
+}
+p{
+    text-align: justify;
+}
